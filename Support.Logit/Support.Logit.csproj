@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Adarsh Pradyut</Authors>
+    <Description>Integrate with big or small .Net project for Error and Information Logging.
+The logger can generate txt and csv log files.</Description>
+    <PackageId>Utils.Logit</PackageId>
+    <Product>Utils.Logit</Product>
+    <PackageReleaseNotes>This is the initial built with all the below features provided: 
+1. Exception logger
+2. Information logger
+3. TXT file format
+4. CSV file  format
+5. Async writer</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
